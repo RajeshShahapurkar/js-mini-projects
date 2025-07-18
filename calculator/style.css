@@ -1,0 +1,25 @@
+*{
+    background-color:cornflowerblue;
+}
+
+.main{
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.numbers{
+    display: flex;
+    
+    height: 250px;
+    width: 300px;
+    background-color: chocolate;
+
+}
+
+button{
+    height: 50px;
+    width: 50px;
+}
