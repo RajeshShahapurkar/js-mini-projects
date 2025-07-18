@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 250px; */
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+input{
+    height: 80px;
+    width: 160px;
+    margin-left: 190px;
+}
