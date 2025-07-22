@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input{
+    height: 40px;
+    width: 280px;
+}
+
+.btn{
+    height: 45px;
+    width: 80px;
+}
